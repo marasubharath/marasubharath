@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,Advanced Java**
 
-- 💬 Ask me about **Frontend and Backend**
+- 💬 Ask me about **Frontend and Backend Development**
 
 - 📫 How to reach me **bharathmarasu0@gmail.com**
 
