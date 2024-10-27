@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Hospital Management System](https://github.com/marasubharath/marasubharath)
+- 🔭 I cpmpleted my project on [Hospital Management System](https://github.com/marasubharath/marasubharath)
 
-- 🌱 I’m currently learning **SpringBoot,Advanced Java**
+- 🌱 I used technologies like **SpringBoot,Advanced Java**
 
 - 💬 Ask me about **Frontend and Backend Development**
 
